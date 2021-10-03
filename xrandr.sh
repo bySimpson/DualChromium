@@ -1,5 +1,5 @@
 #!/bin/sh
-percent=70 # percent of display coverage of first screen
+percent=50 # percent of display coverage of first screen
 
 # calculation, do not change!
 percent2=$(expr 100 - $percent)

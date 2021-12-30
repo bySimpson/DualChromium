@@ -3,7 +3,7 @@ Using this project you can start two fullscreen chromium tabs with custom resolu
 
 ## Installation
 ```
-https://github.com/bySimpson/DualChromium.git
+git clone https://github.com/bySimpson/DualChromium.git
 cd DualChromium
 ./install.sh
 ```
